@@ -1,0 +1,7 @@
+# Ignore sensitive configs
+src/main/resources/application.properties
+
+# IDE + build files
+.idea/
+*.iml
+target/
